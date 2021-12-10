@@ -6,7 +6,7 @@ This is an Akan Name generator Web App. Akan names come from a traditional namin
 **Author's information:**
 Nyaboke  Marasi
 
-**Setup instructions - includes any scripts that need to be run if necessary.**
+**Setup instructions.**
 Step 1 : Clone this repository using https://github.com/Oyonka/moringa-ip2.git, or download a ZIP file of the code.
 Step 2 : The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
 Step 3 : Open the index.html file to view the application on your preferred web browser.
