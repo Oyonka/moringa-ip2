@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,500&family=Lobster&family=Oswald&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+<title>PROFILE</title>
+<style>
+html {
+  scroll-behavior: auto;
+}
+body {
+background-image:  url("https://images.pexels.com/photos/1001851/pexels-photo-1001851.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-size: cover;
+height: 100%;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 20px;
+color: #38434f;
+}
+
+
+.column {
+  float: left;
+  width: 41%;
+}
+
+div h1 {
+font-size: 30px;
+font-family: 'EB Garamond', serif;
+color: #004953;
+font-weight: 900;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+.card {
+  box-shadow: #c0d1e2;
+  padding: 16px;
+  text-align: center;
+  background-color: #eef3f8;
+  transition: 0.3s;
+  border: 2px solid #56687a;
+  border-radius: 25px;
+border-width: 7px;
+border-style: ridge;
+  width: 1150px;
+  height: 940px;
+}
+.card:hover {
+    color: #56687a;
+  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
+ border-bottom-right-radius: 50px;
+   border-top-left-radius: 50px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+width:200px;
+}
+
+.two-column-list {
+  -moz-column-count: 2;
+  -moz-column-gap: 10px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 10px;
+  column-count: 2;
+  column-gap: 10px;
+}
+
+.contact-info {
+margin: 24px 0; 
+text-align: center;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-weight: bold;
+color: black;
+}
+
+</style>
+</head>
+<body>
+<div class="card">
+
+<div class="row">
+  <div class="column">
+<div class="card" style="width: 330px; height: 400px; background: #AFEEEE">
+   <img src="https://user-images.githubusercontent.com/80380641/138590984-7549bfeb-cf7e-413e-9d19-cb6317a77d61.jpg">
+    
+   <div class="container">
+    <h1><b>NYABOKE MARASI</b></h1>
+    <hr>
+    <p>NOC Engineer Safaricom PLC & Founder Marasi Dhana | BBIT| SOFTWARE ENGINEERING | HR | TECH LAW | ITIL®MP|ITIL®SL | SCRUM| DevOps| RPA| FORTINET| Azure| AWS| SEO| NPS| Data Visualization| AIMIS </p>
+    <hr>
+    </div>
+</div>
+<div class="card" style="width: 330px; height: 400px; background: #AFEEEE">
+     <div class="container">
+     <h2 style="font-family: 'EB Garamond', serif; text-align: center; color: #004953;">PROJECTS</h2>
+      <ul>
+     <li><a href="https://oyonka.github.io/PROJECT/index.html" style="font-size: 20px; font-weight:bold; color: #d18800;"> BOKE BITES</a><p>A work in progress online food ordering and delivery platform<br> <br>Languages; php, html and css.</p></li>
+     </ul>
+     </div>
+
+   </div>
+</div>
+
+  <div class="column">
+
+ <div class="container">
+<h2 style="font-family: 'EB Garamond', serif; text-decoration: underline;  text-decoration-style: double; color: #004953;"> ABOUT ME</h2>
+<p> I am passionate and I never stop till I get it.</p>
+<hr>
+  </div>
+
+<div class="container">
+<h3 style="font-family: 'EB Garamond', serif; text-decoration: underline;  text-decoration-style: double; color: #004953;">SKILLS</h3>
+<ul class="two-column-list">
+<li>Digital Marketing and HR</li>
+<li>System Administration</li>
+<li>Network Administration</li>
+<li>Linux System Administration</li>
+<li>LAMP Administration</li>
+<li> RPA</li>
+<li>Cloud Computing</li>
+<li>DevOps</li>
+<li>PM</li>
+<li>Scripting</li>
+<li>Network Security</li>
+<li>Virtualization</li>
+<li>Enterprise Systems</li>
+<li>CPanel</li>
+<li>Visualization</li>
+<li>Customer Support</li>
+</ul>
+<hr>
+  </div>
+
+<div class="container">
+<h3 style="font-family: 'EB Garamond', serif; text-decoration: underline;  text-decoration-style: double; color: #004953;">PASSIONS</h3>
+<ul>
+<li>Uplifting Others</li>
+<li>Climate Change</li>
+<li>Creative Arts</li>
+<li>Health and Fitness</li>
+<li> Learning</li>
+</ul>
+<hr>
+  </div>
+
+<div class="container">
+<h3 style="font-family: 'EB Garamond', serif; text-decoration: underline;  text-decoration-style: double; color: #004953;">INTERESTS</h3>
+<ul>
+  <li>Cloud Computing</li>
+  <li>RPA</li>
+<li>DevOps</li>
+<li>Automation</li>
+  </ul>
+<hr>
+  </div>
+
+<div class="container">
+<h3 style="font-family: 'EB Garamond', serif; text-decoration: underline;  text-decoration-style: double; color: #004953;">HOBBIES</h3>
+<ul>
+  <li>Arts</li>
+  <li>Music</li>
+<li>Design</li>
+<li>Automation</li>
+  </ul>
+  </div>
+
+</div>
+
+</div>
+
+</div>
+<hr>
+<div>
+<h3 style="text-align: center; font-family:'Yanone Kaffeesatz', sans-serif; font-weight: bold; background: linear-gradient #eef3f8; color: black;">I am a student of the world and learning is my undoing.</h3>
+</div> 
+<hr>
+<div class="contact-info">
+<div style="background: #eef3f8;">
+    <a href="https://dribbble.com/Marasi"><i class="fa fa-dribbble"></i></a> 
+    <a href="https://twitter.com/BokeMarasi"><i class="fa fa-twitter"></i></a>  
+    <a href="https://www.linkedin.com/in/nyaboke-marasi-25a4b748/"><i class="fa fa-linkedin"></i></a>  
+    <a href="https://www.facebook.com/moraacessy.michael"><i class="fa fa-facebook"></i></a> </div> 
+<hr>
+<div style="background: linear-gradient #eef3f8;"><i class="fa fa-envelope"></i><p>oyonka.b@gmail.com</p>
+<i class="fa fa-phone"></i><p>0000000000</p>
+<i class="fa fa-map-marker"></i><p>Narobi, Kenya</p></div>
+</div>
+</body>
+</html>
+
