@@ -25,5 +25,6 @@ The application can be viewed by searching for Akan Name Generator on google or 
 **Contact information.**
 pioyonka@gmail.com
 
-
+**License and Copyright information.**
+Copyright (c) 2021 Nyaboke Marasi
 
