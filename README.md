@@ -22,3 +22,8 @@ CSS
 Github Pages 
 The application can be viewed by searching for Akan Name Generator on google or under the link https://oyonka.github.io/moringa-ip2/
 
+**Contact information.**
+pioyonka@gmail.com
+
+
+
