@@ -19,7 +19,7 @@ Step 3 : Open the index.html file to view the application on your preferred web 
 # BDD </br>
 Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
 
-### Technology Used </br>
+# Technology Used </br>
 Javascript
 Bootstrap
 GIT version control
