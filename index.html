@@ -246,6 +246,62 @@ font-weight: 700;
 </style>
 </head>
 <body>
+  <div class="container">
+        <!-- The Landing Page / welcome Note -->
+        <div class="jumbotron jumbotron-fluid">
+            <h1 class="display-4">Akan Name Generator</h1>
+            <p class="lead"> Generate a random Akan Name based on who you are and when you were born. Akan names are derived 
+                from Ghanian culture. Frequently in Ghana, children are given their first 
+                name as a 'day name' which corresponds to the day in the week 
+                they were born.</p>
+        </div>
+<div>
+<div class="card">
+<div>
+        <form class="input-form" onsubmit="return generateAkanName()">
+        <!-- forms to collect user input  -->
+<!-- Block to display Akan Name  -->
+        <div class="block">
+            <h6 id = "nameDisplay">Let's juice it up and find out what your Akan Name right here!</h6>
+            <p id="your-akan-name"></p>
+        </div>
+            <label for="yearOfBirth">
+                YEAR:
+                <input id="yearInput" type="number" name="yearOfBirth" placeholder="YYYY" value="" required>
+            </label>
+            <label for="monthOfBirth">
+                MONTH:
+                <input id="monthInput" type="number" name="monthOfBirth" placeholder="MM" value="" required>
+            </label>
+            <label for="dayOfBirth">
+                DAY:
+                <input id="dayInput" type="number" name="dayOfBirth" placeholder="DD" value="" required>
+            </label>
+            <br>
+            <!-- choose gender inputs -->
+            <label for="gender">
+                <p>CHOOSE YOUR GENDER: </p>
+                MALE
+                <input id="maleInput" type="radio" name="gender" value="male" required>
+                FEMALE
+                <input id="femaleInput" type="radio" name="gender" value="female" required>
+            </label>
+            <br><br>
+            <input  class="bg-info" id="generate-name" type="submit" name="" value="GENERATE NAME">
+            <br><br>
+        </form>
+<!-- Reset form inputs button -->
+        <form class="reset-form">
+            <input class="reset-btn bg-info" type="submit" value="RESET">
+</form>
+    </div>
+</div>
+    <div class="copyright" style="text-align: center; color:#eef3f8;">
+        <h3>By Boke Marasi</h3>
+        <p>Akan Names Generator &copy;
+          <script>document.write(new Date().getFullYear());</script>. All Rights Reserved.</p>
+        <span class="caret scrollToTop"><i class="fas fa-caret-square-up"></i></span>
+      </div>
 </body>
 </html>
 
