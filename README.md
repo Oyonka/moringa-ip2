@@ -12,3 +12,13 @@ Step 1 : Clone this repository using https://github.com/Oyonka/moringa-ip2.git, 
 Step 2 : The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
 
 Step 3 : Open the index.html file to view the application on your preferred web browser.
+
+**Technologies used.**
+Javascript
+Bootstrap
+GIT version control
+HTML
+CSS
+Github Pages 
+The application can be viewed by searching for Akan Name Generator on google or under the link https://oyonka.github.io/moringa-ip2/
+
